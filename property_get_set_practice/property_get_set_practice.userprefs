@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="property_get_set_practice/rectangle_area.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="property_get_set_practice/Program.cs">
+    <Files>
+      <File FileName="property_get_set_practice/Program.cs" Line="19" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

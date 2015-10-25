@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="primative_reference/primative_reference.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="primative_reference/Program.cs">
+    <Files>
+      <File FileName="primative_reference/Program.cs" Line="29" Column="135" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

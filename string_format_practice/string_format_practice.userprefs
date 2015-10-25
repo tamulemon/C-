@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="string_format_practice/string_format_practice.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="string_format_practice/Program.cs">
+    <Files>
+      <File FileName="../demo_string/CommentsAndFormattingStrings/Program.cs" Line="133" Column="69" />
+      <File FileName="string_format_practice/Program.cs" Line="31" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

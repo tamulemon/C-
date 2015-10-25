@@ -1,0 +1,5 @@
+/Users/mengchen/Projects/hello_name/hello_name/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mengchen/Projects/hello_name/hello_name/bin/Debug/hello_name.exe.mdb
+/Users/mengchen/Projects/hello_name/hello_name/bin/Debug/hello_name.exe
+/Users/mengchen/Projects/hello_name/hello_name/obj/x86/Debug/hello_name.exe
+/Users/mengchen/Projects/hello_name/hello_name/obj/x86/Debug/hello_name.exe.mdb

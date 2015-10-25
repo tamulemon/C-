@@ -1,0 +1,5 @@
+/Users/mengchen/Projects/C#/property_get_set_practice/property_get_set_practice/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mengchen/Projects/C#/property_get_set_practice/property_get_set_practice/obj/x86/Debug/property_get_set_practice.exe
+/Users/mengchen/Projects/C#/property_get_set_practice/property_get_set_practice/obj/x86/Debug/property_get_set_practice.exe.mdb
+/Users/mengchen/Projects/C#/property_get_set_practice/property_get_set_practice/bin/Debug/property_get_set_practice.exe.mdb
+/Users/mengchen/Projects/C#/property_get_set_practice/property_get_set_practice/bin/Debug/property_get_set_practice.exe

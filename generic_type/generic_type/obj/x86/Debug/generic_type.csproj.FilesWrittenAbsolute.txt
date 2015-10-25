@@ -1,0 +1,5 @@
+/Users/mengchen/Projects/C#/generic_type/generic_type/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mengchen/Projects/C#/generic_type/generic_type/bin/Debug/generic_type.exe.mdb
+/Users/mengchen/Projects/C#/generic_type/generic_type/bin/Debug/generic_type.exe
+/Users/mengchen/Projects/C#/generic_type/generic_type/obj/x86/Debug/generic_type.exe
+/Users/mengchen/Projects/C#/generic_type/generic_type/obj/x86/Debug/generic_type.exe.mdb

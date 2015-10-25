@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="interface/interface.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="interface/Program.cs">
+    <Files>
+      <File FileName="interface/Program.cs" Line="14" Column="4" />
+      <File FileName="interface/FileLogger.cs" Line="10" Column="135" />
+      <File FileName="interface/IloggerFactory.cs" Line="17" Column="36" />
+      <File FileName="interface/IloggerInterface.cs" Line="13" Column="84" />
+      <File FileName="../class_demo/logginginterface/LoggingInterface/ILoggerFactory.cs" Line="18" Column="77" />
+      <File FileName="interface/App.config" Line="7" Column="30" />
+      <File FileName="interface/bin/Debug/interface.exe.config" Line="7" Column="29" />
+      <File FileName="interface/ConsoleLogger.cs" Line="8" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

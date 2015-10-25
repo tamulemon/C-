@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Flip_coin/Flip_coin.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../rock_paper_scissors/rock_paper_scissors/Game.cs">
+    <Files>
+      <File FileName="../rock_paper_scissors/rock_paper_scissors/Game.cs" Line="14" Column="4" />
+      <File FileName="../rock_paper_scissors/rock_paper_scissors/Program.cs" Line="13" Column="31" />
+      <File FileName="../class_demo/rockpaperscissors/RockPaperScissors/RockPaperScissorsGame.cs" Line="44" Column="32" />
+      <File FileName="Flip_coin/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

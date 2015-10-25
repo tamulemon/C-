@@ -1,0 +1,6 @@
+/Users/mengchen/Projects/C#/class_demo/readingconfigurationdata/ReadingConfigurationData/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mengchen/Projects/C#/class_demo/readingconfigurationdata/ReadingConfigurationData/bin/Debug/ReadingConfigurationData.exe.config
+/Users/mengchen/Projects/C#/class_demo/readingconfigurationdata/ReadingConfigurationData/bin/Debug/ReadingConfigurationData.exe.mdb
+/Users/mengchen/Projects/C#/class_demo/readingconfigurationdata/ReadingConfigurationData/bin/Debug/ReadingConfigurationData.exe
+/Users/mengchen/Projects/C#/class_demo/readingconfigurationdata/ReadingConfigurationData/obj/Debug/ReadingConfigurationData.exe
+/Users/mengchen/Projects/C#/class_demo/readingconfigurationdata/ReadingConfigurationData/obj/Debug/ReadingConfigurationData.exe.mdb

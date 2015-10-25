@@ -1,0 +1,5 @@
+/Users/mengchen/Projects/C#/hangman_game/hangman_game/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mengchen/Projects/C#/hangman_game/hangman_game/bin/Debug/hangman_game.exe.mdb
+/Users/mengchen/Projects/C#/hangman_game/hangman_game/bin/Debug/hangman_game.exe
+/Users/mengchen/Projects/C#/hangman_game/hangman_game/obj/x86/Debug/hangman_game.exe
+/Users/mengchen/Projects/C#/hangman_game/hangman_game/obj/x86/Debug/hangman_game.exe.mdb

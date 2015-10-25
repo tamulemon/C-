@@ -1,0 +1,6 @@
+/Users/mengchen/Projects/C#/app_config/app_config/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mengchen/Projects/C#/app_config/app_config/bin/Debug/app_config.exe.config
+/Users/mengchen/Projects/C#/app_config/app_config/bin/Debug/app_config.exe.mdb
+/Users/mengchen/Projects/C#/app_config/app_config/bin/Debug/app_config.exe
+/Users/mengchen/Projects/C#/app_config/app_config/obj/x86/Debug/app_config.exe
+/Users/mengchen/Projects/C#/app_config/app_config/obj/x86/Debug/app_config.exe.mdb

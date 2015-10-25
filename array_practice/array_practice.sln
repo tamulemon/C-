@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array_practice", "array_practice\array_practice.csproj", "{AC0F2FC2-4049-4B7B-9D70-D8D0EC8D1235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0F2FC2-4049-4B7B-9D70-D8D0EC8D1235}.Debug|x86.ActiveCfg = Debug|x86
+		{AC0F2FC2-4049-4B7B-9D70-D8D0EC8D1235}.Debug|x86.Build.0 = Debug|x86
+		{AC0F2FC2-4049-4B7B-9D70-D8D0EC8D1235}.Release|x86.ActiveCfg = Release|x86
+		{AC0F2FC2-4049-4B7B-9D70-D8D0EC8D1235}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

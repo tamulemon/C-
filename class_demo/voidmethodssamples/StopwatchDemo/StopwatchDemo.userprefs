@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="StopwatchDemo/StopwatchDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../stop_watch/stop_watch/Stopwatch.cs">
+    <Files>
+      <File FileName="../../stop_watch/stop_watch/Stopwatch.cs" Line="6" Column="67" />
+      <File FileName="../../stop_watch/stop_watch/Program.cs" Line="23" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

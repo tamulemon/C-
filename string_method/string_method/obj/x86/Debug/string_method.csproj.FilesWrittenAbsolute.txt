@@ -1,0 +1,5 @@
+/Users/mengchen/Projects/C#/string_method/string_method/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/mengchen/Projects/C#/string_method/string_method/bin/Debug/string_method.exe.mdb
+/Users/mengchen/Projects/C#/string_method/string_method/bin/Debug/string_method.exe
+/Users/mengchen/Projects/C#/string_method/string_method/obj/x86/Debug/string_method.exe
+/Users/mengchen/Projects/C#/string_method/string_method/obj/x86/Debug/string_method.exe.mdb

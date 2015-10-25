@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="rock_paper_scissors/rock_paper_scissors.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="rock_paper_scissors/Game.cs">
+    <Files>
+      <File FileName="rock_paper_scissors/Program.cs" Line="16" Column="40" />
+      <File FileName="../class_demo/rockpaperscissors/RockPaperScissors/RockPaperScissorsGame.cs" Line="1" Column="1" />
+      <File FileName="rock_paper_scissors/Game.cs" Line="53" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
